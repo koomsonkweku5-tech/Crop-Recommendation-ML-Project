@@ -1,4 +1,4 @@
-# Crop-Recommendation-ML-Project
+
 # Crop Recommendation – Machine Learning Classification Project
 
 This project was developed as part of my **MSc Data Science & Analytics (Advanced Practice)** programme at **Teesside University, London Campus**. The project applies supervised machine-learning techniques to recommend suitable crops based on environmental and soil-related attributes.
