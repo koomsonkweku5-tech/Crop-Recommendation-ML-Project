@@ -73,7 +73,7 @@ The goal is to build and compare machine-learning models to classify crops based
 
 ---
 
-## 🎓 Programme Context
+## Programme Context
 MSc Data Science & Analytics (Advanced Practice)  
 Teesside University — London Campus
 
