@@ -5,7 +5,7 @@ This project was developed as part of my **MSc Data Science & Analytics (Advance
 
 ---
 
-## 🌾 Project Overview
+##  Project Overview
 
 The dataset contains features such as:
 - Temperature  
@@ -18,7 +18,7 @@ The goal is to build and compare machine-learning models to classify crops based
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Perform **data preprocessing** using pipelines  
 - Train and compare multiple **classification algorithms**  
 - Evaluate accuracy and interpret results  
@@ -26,14 +26,14 @@ The goal is to build and compare machine-learning models to classify crops based
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python • pandas • NumPy  
 - scikit-learn • Pipeline • ColumnTransformer  
 - Matplotlib / Visualization Tools
 
 ---
 
-## 📌 Model Workflow
+## Model Workflow
 
 1. Data preprocessing using:
    - **Scaling for numeric variables**
@@ -51,19 +51,19 @@ The goal is to build and compare machine-learning models to classify crops based
 
 ---
 
-## 📊 Results (Summary)
+## Results (Summary)
 
 - Random Forest produced the **best overall performance** and showed strong robustness across variables.
 - Feature importance helped identify the most influential environmental factors in crop prediction.
 
 ---
 
-## 🧾 Project Files
-- 📓 Notebook: `Machine Project Work.ipynb`
+## Project Files
+-  Notebook: `Machine Project Work.ipynb`
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 > Replace these with real images after uploading
 
@@ -79,8 +79,8 @@ Teesside University — London Campus
 
 ---
 
-## 🔗 Connect With Me
-- LinkedIn: _your link here_  
-- Email: _your email here_
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/kweku-koomson-428902319/ 
+- Email: koomsonkweku5@gmail.com
 
 ---
